@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nikhil-task/static/css/main.a2205ca4.css",
+    "main.js": "/nikhil-task/static/js/main.09a9eade.js",
+    "index.html": "/nikhil-task/index.html",
+    "main.a2205ca4.css.map": "/nikhil-task/static/css/main.a2205ca4.css.map",
+    "main.09a9eade.js.map": "/nikhil-task/static/js/main.09a9eade.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2205ca4.css",
+    "static/js/main.09a9eade.js"
+  ]
+}
