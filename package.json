@@ -45,3 +45,6 @@
     "gh-pages": "^4.0.0"
   }
 }
+scripts{
+  "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix reactFolderName && npm run build --prefix reactFolderName"
+}
